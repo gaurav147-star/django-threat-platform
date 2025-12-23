@@ -1,6 +1,6 @@
 # Threat Monitoring & Alert Management Platform 🛡️
 
-A scalable, secure backend system designed for ingesting security threats and managing alerts for Next-Gen AI-powered surveillance solutions. Built with **Django REST Framework** and **PostgreSQL**, fully containerized with **Docker**.
+A scalable, secure backend system designed for ingesting security threats and managing alerts. Built with **Django REST Framework** and **PostgreSQL**, fully containerized with **Docker**.
 
 ## 🚀 Overview
 
