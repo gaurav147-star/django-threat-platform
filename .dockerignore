@@ -1,0 +1,29 @@
+# Git
+.git
+.gitignore
+
+# Docker
+docker-compose.yml
+docker-compose.override.yml
+.dockerignore
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv
+venv/
+
+# Environment
+.env
+
+# IDEs
+.idea/
+.vscode/
+
+# Database
+postgres_data/
+*.sqlite3
+
+# Documentation/Tests (Optional - sometimes we want these in image, usually not for prod build if separate)
+# keeping them for now as per simple setup, but ignoring huge artifacts if any
